@@ -15,7 +15,7 @@
     "stack": "container",
     "env":{
         "AMDI_SESSION": {
-            "description": "Paste the session code you received after scanning the QR from https://replit.com/@BlackAmda/Queen-Amdi-QR-Code",
+            "description": "Paste the session code you received after scanning the QR from https://replit.com/@shahidiikazmi/Queen-Amdi-QR-Code",
             "required": true
         },
         "ADD_MESSAGE": {
